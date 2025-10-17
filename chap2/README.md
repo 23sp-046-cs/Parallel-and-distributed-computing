@@ -10,6 +10,12 @@
 
 
 
+
+![Bank Deposit Simulation With Lock](https://github.com/23sp-046-cs/Parallel-and-distributed-computing/blob/8d4c03c56a15a9581ab8194707d9a5214ab992f6/chap2/chap2ss3.PNG?raw=true)
+
+
+
+
 Conclusion:
 The simulation demonstrates how using a lock ensures data consistency during concurrent access to shared resources. When multiple threads deposit money without synchronization, the final account balance becomes incorrect due to race conditions. However, with a lock mechanism, each transaction executes safely and sequentially, maintaining the correct final balance.
 

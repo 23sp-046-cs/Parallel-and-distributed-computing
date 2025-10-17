@@ -1,4 +1,11 @@
+
+
 ![Bank Deposit Simulation Without Lock](https://github.com/23sp-046-cs/Parallel-and-distributed-computing/blob/88e02dc7bf82c35e0e889ba71cadb5c790a91623/chap2/chap2ss1.PNG?raw=true)
+
+
+
+
+![Bank Deposit Simulation Random Deposits](https://github.com/23sp-046-cs/Parallel-and-distributed-computing/blob/a55c7b1cba1013b35ce45f7036e1149a35c650d0/chap2/chap2ss2.PNG?raw=true)
 
 
 

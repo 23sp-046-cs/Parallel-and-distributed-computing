@@ -153,8 +153,8 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 **Parallel-DC Project**
-- GitHub: [@ayanatiq01-arch](https://github.com/ayanatiq01-arch)
-- Repository: [parallel-DC](https://github.com/ayanatiq01-arch/parallel-DC)
+- GitHub: https://github.com/23sp-046-cs/
+- Repository: https://github.com/23sp-046-cs/Parallel-and-distributed-computing/
 
 ## 🙏 Acknowledgments
 
